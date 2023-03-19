@@ -1,0 +1,15 @@
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.csproj.AssemblyReference.cache
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.AssemblyInfoInputs.cache
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.AssemblyInfo.cs
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.csproj.CoreCompileInputs.cache
+C:\Users\alex\geekbrains\seminar10\bin\Debug\net7.0\seminar10.exe
+C:\Users\alex\geekbrains\seminar10\bin\Debug\net7.0\seminar10.deps.json
+C:\Users\alex\geekbrains\seminar10\bin\Debug\net7.0\seminar10.runtimeconfig.json
+C:\Users\alex\geekbrains\seminar10\bin\Debug\net7.0\seminar10.dll
+C:\Users\alex\geekbrains\seminar10\bin\Debug\net7.0\seminar10.pdb
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.dll
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\refint\seminar10.dll
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.pdb
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\seminar10.genruntimeconfig.cache
+C:\Users\alex\geekbrains\seminar10\obj\Debug\net7.0\ref\seminar10.dll
