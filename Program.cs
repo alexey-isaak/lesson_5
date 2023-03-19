@@ -15,3 +15,6 @@ for(int i = 0; i < len; i++)
             array_element_3[i] = array[i];
         }
 }
+
+var str3 = string.Join(" ", array_element_3);
+Console.WriteLine(str3);
